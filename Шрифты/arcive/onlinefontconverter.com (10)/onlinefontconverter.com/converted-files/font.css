@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AvenirNext-BoldItalic';
+  src: url('AvenirNext-BoldItalic.eot');
+  src: url('AvenirNext-BoldItalic.woff2') format('woff2'),
+       url('AvenirNext-BoldItalic.woff') format('woff'),
+       url('AvenirNext-BoldItalic.ttf') format('truetype'),
+       url('AvenirNext-BoldItalic.svg#AvenirNext-BoldItalic') format('svg'),
+       url('AvenirNext-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

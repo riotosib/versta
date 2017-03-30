@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AvenirNext-UltraLightItalic';
+  src: url('AvenirNext-UltraLightItalic.eot');
+  src: url('AvenirNext-UltraLightItalic.woff2') format('woff2'),
+       url('AvenirNext-UltraLightItalic.woff') format('woff'),
+       url('AvenirNext-UltraLightItalic.ttf') format('truetype'),
+       url('AvenirNext-UltraLightItalic.svg#AvenirNext-UltraLightItalic') format('svg'),
+       url('AvenirNext-UltraLightItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

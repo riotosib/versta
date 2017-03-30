@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AvenirNext-MediumItalic';
+  src: url('AvenirNext-MediumItalic.eot');
+  src: url('AvenirNext-MediumItalic.woff2') format('woff2'),
+       url('AvenirNext-MediumItalic.woff') format('woff'),
+       url('AvenirNext-MediumItalic.ttf') format('truetype'),
+       url('AvenirNext-MediumItalic.svg#AvenirNext-MediumItalic') format('svg'),
+       url('AvenirNext-MediumItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

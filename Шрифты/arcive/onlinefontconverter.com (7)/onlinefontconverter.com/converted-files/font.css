@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AvenirNext-Heavy';
+  src: url('AvenirNext-Heavy.eot');
+  src: url('AvenirNext-Heavy.woff2') format('woff2'),
+       url('AvenirNext-Heavy.woff') format('woff'),
+       url('AvenirNext-Heavy.ttf') format('truetype'),
+       url('AvenirNext-Heavy.svg#AvenirNext-Heavy') format('svg'),
+       url('AvenirNext-Heavy.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
